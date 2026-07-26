@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gautam-k05/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/gautam-k05/Leetcode_Practice/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/gautam-k05/Leetcode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/gautam-k05/Leetcode_Practice/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/gautam-k05/Leetcode_Practice/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/gautam-k05/Leetcode_Practice/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
